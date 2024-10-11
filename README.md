@@ -12,7 +12,7 @@ Video Demo
 
 # To see a video demonstration of the project, click here to watch the video.
 
- - Our Video Presentation : [](https://drive.google.com/file/d/10M4DGvKR256vlnFEPW7pKuxVBHRk2OUO/view)
+ - Our Video Presentation : https://drive.google.com/file/d/10M4DGvKR256vlnFEPW7pKuxVBHRk2OUO/view
    
 ## Contributors
 - Sadman Sakib: Implemented the core functionality in Main.java, LogManager.java, and EnergySimulator.java.
