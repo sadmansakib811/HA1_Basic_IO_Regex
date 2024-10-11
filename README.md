@@ -11,9 +11,9 @@ Video Demo
 
 
 # To see a video demonstration of the project, click here to watch the video.
- - Sadman Sakib Video: https://drive.google.com/file/d/1v0NHGPxLZAyZTUaV7oAmSZYPv4dz1gxT/view?usp=sharing
-- Farhana Binta Shaheed Video: https://drive.google.com/file/d/1HmPb4ibJ-OcynqIYzDR40xVqd-ZPTEbj/view?usp=sharing
 
+ - Our Video Presentation : [](https://drive.google.com/file/d/10M4DGvKR256vlnFEPW7pKuxVBHRk2OUO/view)
+   
 ## Contributors
 - Sadman Sakib: Implemented the core functionality in Main.java, LogManager.java, and EnergySimulator.java.
 - Farhana Binta Shaheed: Implemented regular expression search.
